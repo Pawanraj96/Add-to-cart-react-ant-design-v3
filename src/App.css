@@ -1,0 +1,18 @@
+
+.mainLayout.ant-layout{
+  background-color: white;
+}
+
+.highcharts-exporting-group{
+  display: none;
+
+}
+.highcharts-credits{
+  display: none;
+
+}
+
+.ant-pagination.ant-table-pagination.mini{
+  display: none;
+}
+

@@ -1,0 +1,86 @@
+.prodGrid {
+    margin-top: 5%;
+}
+
+.addCart {
+    background-color: black;
+    color: white;
+    margin-left: 4%;
+}
+
+.cardFooter {
+    display: flex;
+    margin-top: 5%;
+    justify-content: center;
+    margin-bottom: 3%;
+}
+
+.cardContent {
+    margin-left: 5%;
+    margin-right: 5%;
+    align-items: center;
+}
+
+.itemPrice {
+    margin-top: 2vh;
+}
+
+.ant-card-body {
+    padding: 0;
+}
+
+element.style {
+    margin-left: 25px;
+    padding: 24px 39px;
+}
+
+.container-fluid {
+    max-width: 2000px;
+    padding: 0 8%;
+    background-color: white;
+}
+
+.ant-btn.ant-btn-block {
+    width: 50%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+.inputField {
+    width: 20%;
+    border-radius: 5px;
+}
+
+.badge1 {
+    color: white;
+    border-radius: 8%;
+}
+
+.prodLabel {
+    margin-top: -390px;
+    position: absolute;
+}
+
+.ant-notification-notice {
+    background-color: lightgreen;
+}
+
+.ant-notification-notice-message {
+    color: green;
+}
+
+.ant-modal-header {
+    border-bottom: 0px
+}
+
+.ant-modal-footer{
+    display: none;
+}
+.antFooter{
+    display: flex;
+    justify-content: end;
+}
+
+.ant-modal-content{
+    margin-top: -80px;
+}
